@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikyla</h1>
-<h3 align="center">I write code that makes things do stuff 👍</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miikyla" alt="miikyla" /></a> </p>
+<h3 align="center">✨ I write code that makes things do stuff ✨</h3>
 
 - 🔭 I’m currently working on [Digital CV](https://github.com/miikyla/digital-cv)
 
