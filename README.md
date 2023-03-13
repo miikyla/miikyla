@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikyla</h1>
 <h3 align="center">✨ I write code that makes things do stuff ✨</h3>
 
-- 🔭 I’m currently working on [Digital CV](https://github.com/miikyla/digital-cv)
+- 🔭 I’m currently working on [SystemVerilog Mastersheet](https://github.com/miikyla/systemverilog-mastersheet)
 
 - 🌱 I’m currently learning **anything other than embedded**
 
